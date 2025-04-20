@@ -23,4 +23,13 @@ Este projeto realiza uma análise exploratória e visualização dos dados de ve
 ---
 
 ## 📂 Estrutura do Projeto
-```markdown analise-dados-vendas/ ├── dados/ │ └── vendas.csv ├── notebooks/ │ └── analise-vendas.ipynb ├── powerbi/ │ └── dashboard.pbix └── README.md ```
+```markdown
+analise-dados-vendas/
+├── dados/
+│   └── vendas.csv
+├── notebooks/
+│   └── analise-vendas.ipynb
+├── powerbi/
+│   └── dashboard.pbix
+└── README.md
+
