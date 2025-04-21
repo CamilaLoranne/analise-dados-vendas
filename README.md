@@ -1,6 +1,5 @@
 # 📊 Análise de Dados de Vendas
-
-Este projeto realiza uma análise exploratória e visualização dos dados de vendas de uma empresa fictícia. O objetivo é identificar padrões de compra, produtos mais vendidos, sazonalidade e oportunidades de negócio.
+   Este projeto tem como objetivo realizar uma análise exploratória de dados de vendas. A partir de um conjunto de dados fictício, serão identificados padrões de consumo, produtos mais vendidos, sazonalidade e insights de negócio.
 
 ---
 
@@ -9,7 +8,6 @@ Este projeto realiza uma análise exploratória e visualização dos dados de ve
 - Python (Pandas, Matplotlib, Seaborn)
 - Power BI
 - Jupyter Notebook
-- Excel (para tratamento inicial dos dados)
 
 ---
 
