@@ -6,7 +6,6 @@
 ## 🧰 Tecnologias Utilizadas
 
 - 🐍 Python (Pandas, Matplotlib, Seaborn)
-- 📈 Power BI
 - 📓 Jupyter Notebook
 ---
 
